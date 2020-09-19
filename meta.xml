@@ -1,0 +1,5 @@
+<meta>
+	<info name="IDLE DVD" description="" author="Optik" type="script" version="1.0"/>
+	<script src="client.lua" type="client" cache="false"/>
+	<file src="dvd.png" type="client" cache="false"/>
+</meta>
